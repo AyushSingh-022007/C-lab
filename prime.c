@@ -10,7 +10,7 @@ int ISPRIME(int num) {
 int main() {
     int start, end;
 
-    printf("Enter the range (start and end): ");
+    printf("Enter range: ");
     scanf("%d %d", &start, &end);
 
     printf("Prime numbers between %d and %d:\n", start, end);
