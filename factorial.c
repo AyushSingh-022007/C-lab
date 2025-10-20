@@ -1,12 +1,10 @@
 #include <stdio.h>
-
 // Recursive factorial using double
 double FACT_recursive(int n) {
     if (n == 0)
         return 1.0;
     return n * FACT_recursive(n - 1);
 }
-
 // Non-recursive factorial using double
 double FACT_nonrecursive(int n) {
     double fact = 1.0;
@@ -15,7 +13,6 @@ double FACT_nonrecursive(int n) {
     }
     return fact;
 }
-
 // Binomial coefficient
 double C(int n, int r, int choice) {
     double nfact, rfact, nrfact;
@@ -30,7 +27,6 @@ double C(int n, int r, int choice) {
     }
     return nfact / (rfact * nrfact);
 }
-
 int main() {
     int n, choice;
 
