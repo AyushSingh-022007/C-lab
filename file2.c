@@ -13,7 +13,7 @@ int main()
     {
         while((ch=fgetc(ptr))!=EOF)
         {
-           printf("%c",ch);
+           printf("%c",ch);              //printing while reading
            
         }
     } 
