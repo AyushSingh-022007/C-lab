@@ -1,0 +1,120 @@
+What is the output of printf("%d", 5 + 2 * 3); ?
+5
+7
+11
+13
+easy
+Which of the following is a valid C data type?
+number
+integer
+float
+boolean
+medium
+Which operator is used to access the value at an address in C?
+&
+@
+*
+#
+easy
+What is the size of an int variable (in bytes) on most 32-bit systems?
+2
+4
+6
+8
+medium
+Which function is used to find the length of a string in C?
+strlen()
+strlength()
+len()
+stringlength()
+easy
+What is the correct syntax to declare a pointer in C?
+int ptr;
+int *ptr;
+ptr int;
+*ptr int;
+medium
+Which keyword is used to return a value from a function in C?
+break
+exit
+return
+output
+easy
+What will be the output of the expression 10 % 3 in C?
+3
+1
+0
+Error
+easy
+Which loop runs at least once even if the condition is false?
+for
+while
+do-while
+none
+medium
+Which of the following header files is used for file handling in C?
+file.h
+stdio.h
+files.c
+system.h
+hard
+Which symbol is used to include header files in C?
+&
+#
+$
+@
+easy
+What is the default return type of a function in C if not specified?
+void
+float
+int
+char
+medium
+Which of the following is used to dynamically allocate memory in C?
+malloc()
+new()
+alloc()
+create()
+medium
+What is the correct way to write a comment in C?
+/comment/
+/* comment */
+comment//
+#comment
+easy
+What is the output of printf("%c", 'A' + 2); ?
+A
+B
+C
+D
+easy
+Which function is used to compare two strings in C?
+strcmp()
+strcompare()
+compare()
+match()
+medium
+Which statement is used to stop a loop in C?
+continue
+return
+exit
+break
+easy
+Which format specifier is used for printing floating-point values in C?
+%d
+%f
+%c
+%s
+easy
+Which of the following operators has the highest precedence?
++
+*
+=
+&&
+medium
+Which keyword is used to define a constant in C?
+constant
+define
+const
+fixed
+medium
