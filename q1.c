@@ -1,5 +1,6 @@
 #include <stdio.h>
-struct Book {
+struct Book 
+{
     int book_id;
     char title[50];
     char author[50];

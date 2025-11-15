@@ -1,0 +1,40 @@
+What is a variable in C?
+easy
+Explain the purpose of the printf() function.
+easy
+Define an array and give an example.
+easy
+What is the difference between = and == in C?
+easy
+What is a loop? Name any two types of loops.
+easy
+What is a data type? Give examples.
+easy
+What is the purpose of the return statement in C?
+easy
+Define a function in C.
+easy
+What is the difference between local and global variables?
+easy
+What is the use of comments in a C program?
+easy
+Explain the difference between while and do-while loop.
+medium
+What are the storage classes in C?
+medium
+Define recursion with an example.
+medium
+Explain the difference between call by value and call by reference.
+medium
+What are pointers? Why are they used?
+medium
+What is a structure in C and how is it declared?
+medium
+Explain the use of malloc() and free() functions.
+medium
+What is file handling? List any two file functions.
+hard
+Explain the difference between structure and union.
+hard
+Describe the process of dynamic memory allocation in C.
+hard
